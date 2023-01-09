@@ -4,6 +4,9 @@
 
 ### 一条咸鱼
 
+my visitor
+![Visitor Count](https://profile-counter.glitch.me/NumberMan1/count.svg)
+
 <br/>
 <br/>
 
@@ -14,8 +17,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=NumberMan1&show_icons=true&theme=cobalt)](https://github.com/NumberMan1/github-readme-stats)-->
 
 <div align="left">
-<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwlkj&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='180' src="https://github-readme-stats.vercel.app/api?username=hqwlkj&show_icons=true&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api/top-langs/?username=NumberMan1&hide=html,css,Jupyter+Notebook,ruby,javascript,Makefile,Less,TypeScript,Tcl,Starlark,Groovy,Shell,Batchfile&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='180' src="https://github-readme-stats.vercel.app/api?username=NumberMan1&show_icons=true&theme=cobalt" align="center" />
 </div>  
 
 <br/>  
