@@ -4,12 +4,7 @@
 
 ### 一条咸鱼
 
-my visitor
-![Visitor Count](https://profile-counter.glitch.me/NumberMan1/count.svg)
-
 <br/>
-<br/>
-
 
 # About My Github
 
